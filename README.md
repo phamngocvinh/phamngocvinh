@@ -28,7 +28,7 @@
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/phamngocvinh
 [twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[twitter-url]: https://twitter.com/vinh_pn
+[twitter-url]: https://twitter.com/phamngocvinh932
 [facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [facebook-url]: https://www.facebook.com/phamngocvinh932
 
