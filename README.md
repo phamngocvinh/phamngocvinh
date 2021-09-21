@@ -23,7 +23,7 @@
 
 ## 📫 You can find me at
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Mail][mail-shield]][linkedin-url]
+[![Mail][mail-shield]][mail-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Facebook][facebook-shield]][facebook-url]
 
