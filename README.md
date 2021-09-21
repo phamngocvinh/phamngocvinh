@@ -19,6 +19,7 @@
 
 ## 🚀 Current project
 - [Galaxy Trader](https://github.com/phamngocvinh/galaxy-trader)
+- [Excel Tools](https://github.com/phamngocvinh/excel-tools)
 
 ## 📫 You can find me at
 [![LinkedIn][linkedin-shield]][linkedin-url]
