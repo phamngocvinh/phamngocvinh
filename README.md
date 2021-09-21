@@ -23,6 +23,7 @@
 
 ## 📫 You can find me at
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Mail][mail-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Facebook][facebook-shield]][facebook-url]
 
@@ -32,6 +33,8 @@
 [twitter-url]: https://twitter.com/phamngocvinh932
 [facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [facebook-url]: https://www.facebook.com/phamngocvinh932
+[mail-shield]: https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail
+[mail-url]: mailto:phamngocvinh@live.com
 
 [java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [csharp-shield]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
