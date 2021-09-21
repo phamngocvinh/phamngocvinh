@@ -18,8 +18,8 @@
 ![php][php-shield]
 
 ## 🚀 Current project
-- [Galaxy Trader](https://github.com/phamngocvinh/galaxy-trader)
-- [Excel Tools](https://github.com/phamngocvinh/excel-tools)
+- [Galaxy Trader](https://github.com/phamngocvinh/galaxy-trader) - MetaTrader 5 Trend Catcher EA 
+- [Excel Tools](https://github.com/phamngocvinh/excel-tools) - Excel Utilies
 
 ## 📫 You can find me at
 [![LinkedIn][linkedin-shield]][linkedin-url]
