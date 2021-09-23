@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinh. </h1>
-<h3 align="center">A software developer from VietNam</h3>
+<h3 align="center">A software developer from VietNam :vietnam:</h3>
 
 <h4 align="center">❤ I love creating small and simple applications that solve simple and small problems in life<h4>
 
