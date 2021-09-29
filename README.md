@@ -19,6 +19,7 @@
 
 ## 🚀 Current project
 - [Galaxy Trader](https://github.com/phamngocvinh/galaxy-trader) - MetaTrader 5 Trend Catcher EA 
+- [M2](https://github.com/phamngocvinh/m2) - Cross-platform Utilities
 - [Excel Tools](https://github.com/phamngocvinh/excel-tools) - Excel Utilies
 
 ## 📫 You can find me at
