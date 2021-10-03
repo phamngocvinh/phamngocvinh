@@ -19,8 +19,9 @@
 
 ## 🚀 Current project
 - [Galaxy Trader](https://github.com/phamngocvinh/galaxy-trader) - MetaTrader 5 Trend Catcher EA 
-- [M2](https://github.com/phamngocvinh/m2) - Cross-platform Utilities - Coming Soon
 - [Excel Tools](https://github.com/phamngocvinh/excel-tools) - Excel Utilies
+- [Automatic Engine](https://github.com/phamngocvinh/automatic-engin) - Rename multiple files with variety of conditions 
+- [Maeltrom M2](https://github.com/phamngocvinh/m2) - Cross-platform Utilities - Coming Soon
 
 ## 📫 You can find me at
 [![LinkedIn][linkedin-shield]][linkedin-url]
