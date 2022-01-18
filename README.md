@@ -18,7 +18,7 @@
 ![php][php-shield]
 
 ## 🚀 Current project
-- [Excel Tools](https://github.com/phamngocvinh/excel-tools) - Excel Utilies
+- [Excel Tools](https://github.com/phamngocvinh/excel-tools) - MS Excel Utilies
 - [Galaxy Trader](https://github.com/phamngocvinh/galaxy-trader) - MetaTrader 5 EA Toolkit
 - [Automatic Engine](https://github.com/phamngocvinh/automatic-engine) - Batch Rename Files
 
