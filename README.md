@@ -18,8 +18,8 @@
 ![php][php-shield]
 
 ## 🚀 Current project
-- [Galaxy Trader](https://github.com/phamngocvinh/galaxy-trader) - MetaTrader 5 Trend Catcher EA 
 - [Excel Tools](https://github.com/phamngocvinh/excel-tools) - Excel Utilies
+- [Galaxy Trader](https://github.com/phamngocvinh/galaxy-trader) - MetaTrader 5 EA Toolkit
 - [Automatic Engine](https://github.com/phamngocvinh/automatic-engine) - Rename multiple files with variety of conditions 
 
 ## 📫 You can find me at
