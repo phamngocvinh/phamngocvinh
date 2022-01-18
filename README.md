@@ -20,7 +20,7 @@
 ## 🚀 Current project
 - [Excel Tools](https://github.com/phamngocvinh/excel-tools) - Excel Utilies
 - [Galaxy Trader](https://github.com/phamngocvinh/galaxy-trader) - MetaTrader 5 EA Toolkit
-- [Automatic Engine](https://github.com/phamngocvinh/automatic-engine) - Rename multiple files with variety of conditions 
+- [Automatic Engine](https://github.com/phamngocvinh/automatic-engine) - Batch Rename Files
 
 ## 📫 You can find me at
 [![LinkedIn][linkedin-shield]][linkedin-url]
