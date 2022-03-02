@@ -27,6 +27,7 @@
 [![Mail][mail-shield]][mail-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Facebook][facebook-shield]][facebook-url]
+[![Captionfy][captionfy-shield]][captionfy-url]
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/phamngocvinh932
@@ -36,7 +37,9 @@
 [facebook-url]: https://www.facebook.com/phamngocvinh932
 [mail-shield]: https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail
 [mail-url]: mailto:phamngocvinh@live.com
-
+[captionfy-shield]: https://img.shields.io/badge/Captionfy-red?style=for-the-badge&logo=YouTube
+[captionfy-url]: https://www.captionfy.io/user/VinhGalaxy
+  
 [java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [csharp-shield]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 [javascript-shield]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
