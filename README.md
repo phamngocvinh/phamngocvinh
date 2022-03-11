@@ -18,8 +18,8 @@
 ![php][php-shield]
 
 ## 🚀 Current project
+- [PyChecksum](https://github.com/phamngocvinh/py-checksum) - Generate & Verify File's Hashes 
 - [Excel Tools](https://github.com/phamngocvinh/excel-tools) - MS Excel Utilies
-- [Galaxy Trader](https://github.com/phamngocvinh/galaxy-trader) - MetaTrader 5 EA Toolkit
 - [Automatic Engine](https://github.com/phamngocvinh/automatic-engine) - Batch Rename Files
 
 ## 📫 You can find me at
