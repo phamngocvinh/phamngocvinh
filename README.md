@@ -5,8 +5,8 @@
 
 ## 🤖 Hobbies
 - Solve programming problems
-- Watch animes
-- Read mythology books
+- Watch science video
+- Do regex puzzle
 - Play videogames
 
 ## ⚡ Languages
