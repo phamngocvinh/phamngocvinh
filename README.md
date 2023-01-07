@@ -19,7 +19,7 @@
 
 ## 🚀 Current project
 - [Regex101](https://phamngocvinh.github.io/regex101) - Regular Expression Guide
-- [Excel Tools](https://github.com/phamngocvinh/excel-tools) - MS Excel Utilies
+- [Excel GREP](https://github.com/phamngocvinh/excel-grep) - MS Excel GREP Tool
 - [Automatic Engine](https://github.com/phamngocvinh/automatic-engine) - Batch Rename Files
 
 ## 📫 You can find me at
