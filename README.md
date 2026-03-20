@@ -18,8 +18,8 @@
 ![php][php-shield]
 
 ## 🚀 Current project
+- [Zenith Studio](https://phamngocvinh.github.io/zenith/) - Lean High Quality Applications
 - [Regex101](https://phamngocvinh.github.io/regex101) - Regular Expression Guide
-- [Excel GREP](https://github.com/phamngocvinh/excel-grep) - MS Excel GREP Tool
 - [Automatic Engine](https://github.com/phamngocvinh/automatic-engine) - Batch Rename Files
 
 ## 📫 You can find me at
